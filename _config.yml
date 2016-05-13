@@ -1,0 +1,28 @@
+name: Dan Pascual
+favicon: null
+layout_spectrum: 0.8396684448234737
+typography_spectrum: 0.24297570600174367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9025435189250857
+  lightness: 0.9011626951396465
+  saturation: 0.04707157495431602
+  rhythmicContrast: 0.7055696463212371
+purpose: []
