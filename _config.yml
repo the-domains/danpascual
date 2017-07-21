@@ -6,7 +6,7 @@ purpose:
     url: 'http://thefilmdream.com'
     label: thefilmdream.com
 github: true
-description: Unleashing the Storyteller Within
+description: 'Unleashing the Storyteller Within '
 author:
   name: Danny Pascual
   url: 'http://thefilmdream.com'
@@ -44,5 +44,5 @@ content_rating:
   adult: false
 typography_spectrum: 0.2429757060017437
 opengraph: {}
-title: 'Indie 101: My Indiefilmmaking Journey'
+title: 'Indie 101: My Journey'
 url: 'https://thegrid.ai/dannypascual/'
