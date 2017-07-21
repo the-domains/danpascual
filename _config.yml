@@ -6,8 +6,11 @@ purpose:
     url: 'http://thefilmdream.com'
     label: thefilmdream.com
 github: true
-description: Unleash the Storyteller in You!
-author: {}
+description: Unleashing the Storyteller Within
+author:
+  name: Danny Pascual
+  url: 'http://thefilmdream.com'
+  email: thefilmdream@icloud.com
 cta:
   bucket: null
   version: null
@@ -18,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.8396684448234737
 color:
@@ -41,5 +44,5 @@ content_rating:
   adult: false
 typography_spectrum: 0.2429757060017437
 opengraph: {}
-title: Of Life Stories and Inspiring Filmmakers
+title: 'Indie 101: My Indiefilmmaking Journey'
 url: 'https://thegrid.ai/dannypascual/'
