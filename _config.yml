@@ -1,4 +1,4 @@
-name: Indie 101
+name: 'Indie 101: My Filmmaking Journey'
 analytics:
   google: UA-64070424-1
 purpose:
@@ -44,5 +44,5 @@ content_rating:
   adult: false
 typography_spectrum: 0.2429757060017437
 opengraph: {}
-title: My Filmmaking Journey
+title: Danny Pascual
 url: 'https://thegrid.ai/dannypascual/'
