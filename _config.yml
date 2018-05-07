@@ -6,7 +6,7 @@ purpose:
     url: 'http://thefilmdream.com'
     label: thefilmdream.com
 github: true
-description: Unleash the Storyteller Within!
+description: 'Indie 101: My Filmmaking Journey'
 author:
   name: Danny Pascual
   url: 'http://thefilmdream.com'
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.8396684448234737
 color:
@@ -44,5 +44,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.2429757060017437
 opengraph: {}
-title: 'Indie 101: My Filmmaking Journey'
 url: 'https://thegrid.ai/danpascual/'
