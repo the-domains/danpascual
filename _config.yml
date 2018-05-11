@@ -6,7 +6,7 @@ purpose:
     url: 'http://thefilmdream.com'
     label: thefilmdream.com
 github: true
-description: Inspiring & Trasformative Stories in Digital
+description: Powering your Brands Through Digital Stories
 author:
   name: The Film Dream Digital Studios
   url: 'http://thefilmdream.com'
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.8396684448234737
 color:
