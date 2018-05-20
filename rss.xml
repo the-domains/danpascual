@@ -4,9 +4,9 @@
         <description><![CDATA[The Film Dream Digital Studios]]></description>
         <link>http://thefilmdreamdigitalstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 May 2018 01:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 May 2018 01:25:27 GMT</lastBuildDate>
         <atom:link href="http://thefilmdreamdigitalstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 May 2018 01:25:02 GMT</pubDate>
+        <pubDate>Sun, 20 May 2018 01:25:10 GMT</pubDate>
         <item>
             <title><![CDATA["PORMALIN" Official Trailer]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2Rfk-2F8gBw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Rfk-2F8gBw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2Rfk-2F8gBw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -20,6 +20,13 @@
             <link>http://entertainment.inquirer.net/253401/not-enough-filipino-film-buffs</link>
             <guid isPermaLink="false">2c72071b-0f93-41d9-bcd6-e5b0f390c4f7</guid>
             <pubDate>Sun, 20 May 2018 01:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Message from Direk Alfredo Ongleo of the short film "Pormalin"]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FY-JNvOzOz4M%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY-JNvOzOz4M&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FY-JNvOzOz4M%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=Y-JNvOzOz4M&amp;feature=share</link>
+            <guid isPermaLink="false">220db2dc-9ceb-4798-bea7-01ed30804e50</guid>
+            <pubDate>Sun, 20 May 2018 01:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Respeto' bags 6 Cinemalaya awards]]></title>
@@ -69,13 +76,6 @@
             <link>http://nofilmschool.com/2016/04/quentin-tarantino-approach-becoming-successful-filmmaker</link>
             <guid isPermaLink="false">931ff1e3-cbf7-477e-a18d-325f08c5ab35</guid>
             <pubDate>Wed, 14 Sep 2016 00:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Shoot A Short Film | DSLRguide]]></title>
-            <description><![CDATA[<p>How To Shoot A Short Film | DSLRguide</p>,<article><h1>How To Shoot A Short Film | DSLRguide</h1><p>What I learned from spending four days filming a short film.</p><img src="http://dslrguide.tv/wp-content/uploads/2016/04/short-film-blog-1024x640.jpg"></article>]]></description>
-            <link>urn:uuid:978bae14-5bce-425c-b0c4-e3dba61712bf</link>
-            <guid isPermaLink="false">f9582f08-52a3-4cf9-896f-445d6e5fdafe</guid>
-            <pubDate>Wed, 14 Sep 2016 00:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
