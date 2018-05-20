@@ -16,18 +16,18 @@ description: >-
   budget for Warner and Village Roadshow's Dunkirk, so all I can say is that it
   probably cost a lot less than Inception and Interstellar.
 app_links: []
-isBasedOnUrl: >-
-  https://www.forbes.com/sites/scottmendelson/2017/07/18/dunkirk-review-chris-nolans-best-movie-since-the-dark-knight/amp/
 title: '''Dunkirk'' Review: Chris Nolan''s Best Movie Since ''The Dark Knight'''
-datePublished: '2017-07-20T09:18:56.252Z'
-dateModified: '2017-07-20T09:17:57.857Z'
-datePublishedOriginal: '2017-07-20T09:18:56.252Z'
+datePublished: '2018-05-20T01:25:11.757Z'
+dateModified: '2018-05-20T01:25:11.488Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-20-dunkirk-review-chris-nolans-best-movie-since-the-dark-k.md
+hasPage: true
+datePublishedOriginal: '2018-05-20T01:25:11.757Z'
+starred: false
+url: dunkirk-review-chris-nolans-best-movie-since-the-dark-k/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Dunkirk' Review: Chris Nolan's Best Movie Since 'The Dark Knight'</h1><p>Warner Bros./Time Warner Inc. is being very cagey with the actual production budget for Warner and Village Roadshow's Dunkirk, so all I can say is that it probably cost a lot less than Inception and Interstellar.</p><img src="https://blogs-images.forbes.com/scottmendelson/files/2017/07/MV5BMTY4NTk5OTE1MF5BMl5BanBnXkFtZTgwMDgyNDY4MjI@._V1_SX1777_CR001777744_AL_-1200x675.jpg?width=640&amp;height=434" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f486b126d87a34cc4e56cd9417545bfc/noop.jpg?input=https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2017%2F07%2FMV5BMTY4NTk5OTE1MF5BMl5BanBnXkFtZTgwMDgyNDY4MjI%40._V1_SX1777_CR001777744_AL_-1200x675.jpg%3Fwidth%3D640%26height%3D434" /><h1>'Dunkirk' Review: Chris Nolan's Best Movie Since 'The Dark Knight'</h1><p>Warner Bros./Time Warner Inc. is being very cagey with the actual production budget for Warner and Village Roadshow's Dunkirk, so all I can say is that it probably cost a lot less than Inception and Interstellar.</p></article>
