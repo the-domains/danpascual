@@ -1,6 +1,5 @@
 name: The Film Dream Digital Studios
-analytics:
-  google: UA-64070424-1
+analytics: {}
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
@@ -21,12 +20,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,18 +36,18 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/22821b08-ce97-435e-9b3d-b1adb1af0d5d.png
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
