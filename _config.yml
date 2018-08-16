@@ -2,8 +2,8 @@ name: The Film Dream Digital Studios
 analytics: {}
 purpose:
   - type: external
-    url: 'http://thefilmdream.com'
-    label: 'http://thefilmdream.com'
+    url: 'http://tfddigitalstudios@thefilmdream.com'
+    label: 'Contact us '
   - type: contact
     url: 'tel:+639175260244'
     label: Call us
