@@ -1,18 +1,19 @@
 ---
 inFeed: true
 description: 'August 16, 2018'
-dateModified: '2018-08-16T09:20:16.397Z'
-datePublished: '2018-08-16T09:20:18.137Z'
+dateModified: '2018-08-16T09:34:43.098Z'
+datePublished: '2018-08-16T09:34:45.617Z'
 title: Today’s Inspiration
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-08-16-todays-inspiration.md
-hasPage: true
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJwtzk0OwiAQQOGrkNlbakzVaOnaxAu45WcqRCgEhhBur1H3L1_e7NYsA7LmDFkB03EEZtE9LQk47CdgJWsBliiVC-ettaHHSlXhoGPgGBQafr_F8-kxkksvYF9OxWwwC_hg0vvYBMhKMXnZrww3nXsiNLuAxsl_sVbvi86I2zLz39PyBh-fNjk
+hasPage: false
 starred: false
 datePublishedOriginal: '2018-08-16T08:51:43.670Z'
-url: todays-inspiration/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Today's Inspiration
