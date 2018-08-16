@@ -3,7 +3,7 @@ analytics: {}
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
-    label: thefilmdream.com
+    label: 'http://thefilmdream.com'
 github: true
 description: Powering your Brands Through Digital Stories
 author:
