@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'August 16, 2018'
-dateModified: '2018-08-16T08:59:13.453Z'
-datePublished: '2018-08-16T08:59:14.328Z'
+dateModified: '2018-08-16T09:04:06.156Z'
+datePublished: '2018-08-16T09:04:07.295Z'
 title: Today’s Inspiration
 author: []
 publisher: {}
@@ -16,5 +16,7 @@ _type: Blurb
 # Today's Inspiration
 
 August 16, 2018
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KHo87X0tipk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen\></iframe\>
 
 For all of us dreamers and doers...
