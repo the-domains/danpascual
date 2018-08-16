@@ -4,9 +4,9 @@
         <description><![CDATA[The Film Dream Digital Studios]]></description>
         <link>http://thefilmdreamdigitalstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Aug 2018 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Aug 2018 09:25:45 GMT</lastBuildDate>
         <atom:link href="http://thefilmdreamdigitalstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Aug 2018 09:24:15 GMT</pubDate>
+        <pubDate>Thu, 16 Aug 2018 09:25:44 GMT</pubDate>
         <item>
             <title><![CDATA[Today’s Inspiration]]></title>
             <description><![CDATA[<h1>Today’s Inspiration</h1>,<p>August 16, 2018</p>,<p>For all of us dreamers and doers…</p>]]></description>
@@ -22,18 +22,18 @@
             <pubDate>Sun, 20 May 2018 01:24:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["PORMALIN" Official Trailer]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2Rfk-2F8gBw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Rfk-2F8gBw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2Rfk-2F8gBw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/2Rfk-2F8gBw</link>
-            <guid isPermaLink="false">f42b70c2-6652-4ad5-b87f-818630939198</guid>
-            <pubDate>Sun, 20 May 2018 01:24:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mabuhay ka Pilipinas]]></title>
             <description><![CDATA[<p>Philippine Independence Day 2018</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4c3955ba029cf553a1f03b1ea2a25dbc/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft15.0-10%2F32443440_620699944930886_4331645685347647488_n.jpg%3F_nc_cat%3D0%26oh%3D3fda8913fe027eef4f0d49ab8e15f2e3%26oe%3D5B79DA5F"><h1>Mabuhay ka Pilipinas</h1></article>]]></description>
             <link>https://scontent.xx.fbcdn.net/v/t15.0-10/32443440_620699944930886_4331645685347647488_n.jpg?_nc_cat=0&amp;oh=3fda8913fe027eef4f0d49ab8e15f2e3&amp;oe=5B79DA5F</link>
             <guid isPermaLink="false">a2e78f25-eb64-42d6-a1dd-17f2e6597c3b</guid>
             <pubDate>Thu, 16 Aug 2018 09:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["PORMALIN" Official Trailer]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2Rfk-2F8gBw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Rfk-2F8gBw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2Rfk-2F8gBw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/2Rfk-2F8gBw</link>
+            <guid isPermaLink="false">f42b70c2-6652-4ad5-b87f-818630939198</guid>
+            <pubDate>Sun, 20 May 2018 01:24:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
