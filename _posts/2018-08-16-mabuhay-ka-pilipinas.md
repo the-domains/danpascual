@@ -2,7 +2,7 @@
 inFeed: true
 description: Philippine Independence Day 2018
 dateModified: '2018-08-16T09:25:42.808Z'
-datePublished: '2018-08-16T09:25:43.068Z'
+datePublished: '2018-08-16T09:25:43.136Z'
 title: Mabuhay ka Pilipinas
 author: []
 publisher:
