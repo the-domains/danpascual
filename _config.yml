@@ -3,7 +3,7 @@ analytics: {}
 purpose:
   - type: external
     url: 'http://tfddigitalstudios@thefilmdream.com'
-    label: 'Contact us '
+    label: Email us
   - type: contact
     url: 'tel:+639175260244'
     label: Call us
