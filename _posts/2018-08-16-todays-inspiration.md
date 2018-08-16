@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'August 16, 2018'
-dateModified: '2018-08-16T09:05:28.802Z'
-datePublished: '2018-08-16T09:05:29.052Z'
+dateModified: '2018-08-16T09:09:15.207Z'
+datePublished: '2018-08-16T09:09:16.211Z'
 title: Today’s Inspiration
 author: []
 publisher: {}
@@ -19,6 +19,6 @@ _type: MediaObject
 
 August 16, 2018
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzk0OwiAQQOGrkNlbakzVaOnaxAu45WcqRCgEhhBur1H3L1_e7NYsA7LmDFkB03EEZtE9LQk47CdgJWsBliiVC-ettaHHSlXhoGPgGBQafr_F8-kxkksvYF9OxWwwC_hg0vvYBMhKMXnZrww3nXsiNLuAxsl_sVbvi86I2zLz39PyBh-fNjk" height="244" style=""></iframe>
+https://youtu.be/KHo87X0tipk 
 
 For all of us dreamers and doers...
