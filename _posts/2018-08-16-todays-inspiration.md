@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'August 16, 2018'
-dateModified: '2018-08-16T09:09:16.291Z'
-datePublished: '2018-08-16T09:09:18.014Z'
+dateModified: '2018-08-16T09:09:26.868Z'
+datePublished: '2018-08-16T09:09:27.144Z'
 title: Today’s Inspiration
 author: []
 publisher: {}
